@@ -1,6 +1,6 @@
 <!-- Linha neon decorativa topo + título -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="60%" /><br>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" /><br>
   <strong><span style="font-size:22px">👋 Olá, eu sou o <span style="color:#00ffcc">GoltolaMD</span></span><br>
   Desenvolvedor apaixonado por automações, bots e web apps</strong>
 </p>
