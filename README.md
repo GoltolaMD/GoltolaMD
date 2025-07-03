@@ -1,6 +1,6 @@
 <!-- Linha neon decorativa topo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="80%" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="70" />
 </p>
 
 <h1 align="center">Olá 👋, eu sou o GoltolaMD</h1>
@@ -50,7 +50,7 @@
 
 <!-- Linha neon decorativa fim -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" height="50" />
 </p>
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
