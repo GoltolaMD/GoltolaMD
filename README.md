@@ -1,9 +1,10 @@
 <!-- Linha neon decorativa topo + título -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" /><br>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="60%" /><br>
   <strong><span style="font-size:22px">👋 Olá, eu sou o <span style="color:#00ffcc">GoltolaMD</span></span><br>
   Desenvolvedor apaixonado por automações, bots e web apps</strong>
 </p>
+
 ---
 
 ### 🧠 Linguagens e Ferramentas
@@ -41,14 +42,14 @@
 
 ### 🌐 Contato & Links
 
-- 💼 [Site CMSP Tools](https://cmhub.netlify.app)
+- 💼 [Site CMSP Tools](https://cmhub.netlify.app)  
 - ✨ [Discord CMSP Tools](https://discord.com/invite/76fzRA5Hh3)
 
 ---
 
 <!-- Linha neon decorativa fim -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="60%" />
 </p>
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
