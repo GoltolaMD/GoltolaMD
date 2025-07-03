@@ -29,7 +29,7 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmsp-tools&show_icons=true&theme=tokyonight" width="80%" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=GoltolaMD&show_icons=true&theme=tokyonight" width="80%" /><br><br>
   <br><br>
 </p>
 
