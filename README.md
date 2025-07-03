@@ -50,7 +50,7 @@
 
 <!-- Linha neon decorativa fim -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="60%" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
 </p>
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
