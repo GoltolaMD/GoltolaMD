@@ -1,22 +1,45 @@
-# 🧠 GoltolaMD — Hacks Educacionais | Sala do Futuro
+<h1 align="center">Olá 👋, eu sou o GoltolaMD</h1>
+<h3 align="center">Desenvolvedor apaixonado por automações, bots e web apps</h3>
 
-👋 Olá! Sou GoltolaMD, desenvolvedor de soluções educacionais alternativas e ferramentas automatizadas para estudantes da rede pública de SP, com foco na Sala do Futuro, Prova Paulista, Matific, Leia SP e outras plataformas educacionais.
+---
 
-💡 Objetivo
-Criar ferramentas acessíveis que ajudam estudantes a navegar, entender e automatizar atividades escolares dentro do ambiente digital adotado por programas como o CMSP.
+### 🧠 Linguagens e Ferramentas
 
-🚀 Principais Projetos
-Projeto	Descrição breve
-CMSP Tools	Painel flutuante com acesso rápido a scripts úteis como Matific, Tarefa SP, etc.
-Tarefa SP (saladofuturov2)	Automatizador para tarefas da plataforma "Sala do Futuro".
-Prova Paulista Solver	Ferramenta de apoio para responder simulados da Prova Paulista.
-Leia SP Token Extractor	Extrai token para leitura automática no Árvore Livros.
-Alura Infinity	Script para automatizar progresso em cursos da Alura.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
-📎 Como usar
-Você pode encontrar os scripts no repositório correspondente ou usar o bookmarklet CMSP Tools para acesso rápido a todos com interface amigável. Ideal para usar direto no navegador.
+---
 
-<!---
-GoltolaMD/GoltolaMD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧰 Sobre Mim
+
+- 🔭 Atualmente estou trabalhando em **CMSP Tools**  
+- 🌱 Aprendendo cada vez mais sobre **automação e IA**  
+- 👯 Procuro colaborar com **projetos educacionais e bots úteis**  
+- 💬 Me pergunte sobre JavaScript, Python, HTML, Bots e Automação  
+- ⚡ Curiosidade: adoro transformar ideias simples em ferramentas úteis
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cmsp-tools&show_icons=true&theme=github_dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmsp-tools&layout=compact&theme=github_dark" width="48%"/>
+</div>
+
+---
+
+### 🌐 Contato & Links
+
+- 💼 [Site CMSP Tools](https://cmhub.netlify.app)
+- ✨ [Discord CMSP Tools](https://discord.com/invite/76fzRA5Hh3)
+
+---
+
+<p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
