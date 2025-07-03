@@ -1,6 +1,6 @@
 <!-- Linha neon decorativa topo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="95" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="95%" />
 </p>
 
 <h1 align="center">Olá 👋, eu sou o GoltolaMD</h1>
