@@ -1,3 +1,8 @@
+<!-- Linha neon decorativa topo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+</p>
+
 <h1 align="center">Olá 👋, eu sou o GoltolaMD</h1>
 <h3 align="center">Desenvolvedor apaixonado por automações, bots e web apps</h3>
 
@@ -30,7 +35,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GoltolaMD&show_icons=true&theme=tokyonight" width="80%" /><br><br>
-  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoltolaMD&layout=compact&theme=tokyonight" width="50%" /><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoltolaMD&theme=tokyonight" width="80%" />
 </p>
 
 ---
@@ -41,5 +47,10 @@
 - ✨ [Discord CMSP Tools](https://discord.com/invite/76fzRA5Hh3)
 
 ---
+
+<!-- Linha neon decorativa fim -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+</p>
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
