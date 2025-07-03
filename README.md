@@ -30,8 +30,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cmsp-tools&show_icons=true&theme=tokyonight" width="80%" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmsp-tools&layout=compact&theme=tokyonight" width="50%" /><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmsp-tools&theme=tokyonight" width="80%" />
+  <br><br>
 </p>
 
 ---
