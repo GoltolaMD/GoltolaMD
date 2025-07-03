@@ -1,9 +1,10 @@
-<!-- Linha neon decorativa topo + título -->
+<!-- Linha neon decorativa topo + título simulado dentro -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="60%" /><br>
-  <strong><span style="font-size:22px">👋 Olá, eu sou o <span style="color:#00ffcc">GoltolaMD</span></span><br>
-  Desenvolvedor apaixonado por automações, bots e web apps</strong>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="60%" />
 </p>
+
+<h1 align="center" style="color:#00ffcc">👋 Olá, eu sou o GoltolaMD</h1>
+<h3 align="center" style="color:#00ffcc">Desenvolvedor apaixonado por automações, bots e web apps</h3>
 
 ---
 
