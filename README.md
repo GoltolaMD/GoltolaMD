@@ -1,11 +1,9 @@
-<!-- Linha neon decorativa topo -->
+<!-- Linha neon decorativa topo + título -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="60%" /><br>
+  <strong><span style="font-size:22px">👋 Olá, eu sou o <span style="color:#00ffcc">GoltolaMD</span></span><br>
+  Desenvolvedor apaixonado por automações, bots e web apps</strong>
 </p>
-
-<h1 align="center">Olá 👋, eu sou o GoltolaMD</h1>
-<h3 align="center">Desenvolvedor apaixonado por automações, bots e web apps</h3>
-
 ---
 
 ### 🧠 Linguagens e Ferramentas
