@@ -43,7 +43,7 @@
 
 ### 🌐 Contato & Links
 
-- 💼 [Site CMSP Tools](https://cmhub.netlify.app)  
+- 💼 [Site CMSP Tools](https://mdhacks.site)  
 - ✨ [Discord CMSP Tools](https://discord.com/invite/76fzRA5Hh3)
 
 ---
