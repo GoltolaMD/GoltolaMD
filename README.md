@@ -19,6 +19,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
 </p>
 
+<p align="right">
+  <img src="https://avatars.githubusercontent.com/u/197667192?v=4" alt="Avatar" width="60" height="60"/>
+ </p>
+
 ---
 
 ### 🧰 Sobre Mim
